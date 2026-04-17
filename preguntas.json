@@ -1,0 +1,1374 @@
+[
+  {
+    "pregunta": "¿Qué lenguaje es utilizado para realizar consultas en bases de datos orientadas a",
+    "respuesta": "OQL.",
+    "opciones": [
+      "objetos?",
+      "OQL.",
+      "SQL.",
+      "JPQL."
+    ]
+  },
+  {
+    "pregunta": "¿Qué ventaja clave tienen las BDOO en aplicaciones con manejo intensivo de",
+    "respuesta": "Reducción de mapeos complejos.",
+    "opciones": [
+      "objetos?",
+      "Escalabilidad.",
+      "Reducción de mapeos complejos.",
+      "Compatibilidad universal."
+    ]
+  },
+  {
+    "pregunta": "¿Qué herramienta facilita la conexión entre Java y bases de datos?",
+    "respuesta": "JDBC.",
+    "opciones": [
+      "JDBC.",
+      "ObjectDB.",
+      "PostgreSQL."
+    ]
+  },
+  {
+    "pregunta": "¿Qué ventaja tienen las BDOO en el manejo de estructuras de datos complejas?",
+    "respuesta": "Almacenan datos de manera nativa.",
+    "opciones": [
+      "Reducen el uso de memoria.",
+      "Almacenan datos de manera nativa.",
+      "Simplifican los datos a modelos relacionales."
+    ]
+  },
+  {
+    "pregunta": "¿Qué ventaja tiene usar tipos de datos definidos por el usuario?",
+    "respuesta": "Representan mejor la lógica del negocio.",
+    "opciones": [
+      "Simplifican las consultas básicas.",
+      "Representan mejor la lógica del negocio.",
+      "Aumentan la compatibilidad hacia atrás."
+    ]
+  },
+  {
+    "pregunta": "¿Qué propiedad permite que las transacciones cumplan con las propiedades ACID?",
+    "respuesta": "Atomicidad.",
+    "opciones": [
+      "Commit.",
+      "Encapsulamiento.",
+      "Atomicidad."
+    ]
+  },
+  {
+    "pregunta": "¿Qué modelo de base de datos minimiza el desfase objeto-relacional?",
+    "respuesta": "Objeto-relacional.",
+    "opciones": [
+      "Relacional.",
+      "Jerárquico.",
+      "Objeto-relacional."
+    ]
+  },
+  {
+    "pregunta": "¿Qué característica permite la reutilización de código en las BDOO?",
+    "respuesta": "Sobrecarga de operadores.",
+    "opciones": [
+      "Sobrecarga de operadores.",
+      "Encapsulamiento.",
+      "Compatibilidad con lenguajes relacionales."
+    ]
+  },
+  {
+    "pregunta": "¿Qué elemento gestiona las consultas en aplicaciones basadas en JPA?",
+    "respuesta": "EntityManager.",
+    "opciones": [
+      "EntityManager.",
+      "TransactionManager.",
+      "SessionFactory."
+    ]
+  },
+  {
+    "pregunta": "¿Qué permite la herencia entre tablas en PostgreSQL?",
+    "respuesta": "Reutilizar estructuras.",
+    "opciones": [
+      "Crear índices automáticamente.",
+      "Evitar duplicados.",
+      "Reutilizar estructuras."
+    ]
+  },
+  {
+    "pregunta": "¿Qué tipo de dato se usa para almacenar videos en SQL99?",
+    "respuesta": "BLOB.",
+    "opciones": [
+      "Enum.",
+      "BLOB.",
+      "CLOB."
+    ]
+  },
+  {
+    "pregunta": "¿Qué define el estándar ANSI SQL?",
+    "respuesta": "Compatibilidad universal en SQL.",
+    "opciones": [
+      "Compatibilidad universal en SQL.",
+      "Restricción de funciones avanzadas.",
+      "Exclusividad en sistemas propietarios."
+    ]
+  },
+  {
+    "pregunta": "¿Qué sistema gestor soporta juegos de caracteres internacionales?",
+    "respuesta": "PostgreSQL.",
+    "opciones": [
+      "Oracle.",
+      "PostgreSQL.",
+      "SQL Server."
+    ]
+  },
+  {
+    "pregunta": "¿Qué característica principal distingue a las bases de datos objeto-relacionales?",
+    "respuesta": "Permiten tipos de datos personalizados.",
+    "opciones": [
+      "Permiten tipos de datos personalizados.",
+      "Solo se usan con lenguajes de bajo nivel.",
+      "Solo soportan tipos atómicos."
+    ]
+  },
+  {
+    "pregunta": "¿Qué función cumple la instrucción db:open en XQuery?",
+    "respuesta": "Abrir un documento XML.",
+    "opciones": [
+      "Crear bases de datos.",
+      "Ejecutar consultas XQuery.",
+      "Abrir un documento XML."
+    ]
+  },
+  {
+    "pregunta": "¿Qué ventaja tiene XQuery sobre SQL en bases de datos XML?",
+    "respuesta": "Permite manipulación estructurada de datos XML.",
+    "opciones": [
+      "No necesita sintaxis compleja.",
+      "Permite manipulación estructurada de datos XML.",
+      "Es más rápido."
+    ]
+  },
+  {
+    "pregunta": "¿Qué método se usa para renombrar un documento en BaseX?",
+    "respuesta": "Rename.",
+    "opciones": [
+      "Update.",
+      "Rename.",
+      "Modify."
+    ]
+  },
+  {
+    "pregunta": "¿Qué componente en BaseX permite trabajar con bases de datos de forma local?",
+    "respuesta": "Context.",
+    "opciones": [
+      "Context.",
+      "LocalSession.",
+      "BaseXCore."
+    ]
+  },
+  {
+    "pregunta": "¿Qué ventaja tiene el uso de índices en bases de datos XML?",
+    "respuesta": "Acelera las consultas.",
+    "opciones": [
+      "Mejora la compresión.",
+      "Acelera las consultas.",
+      "Reduce el tamaño de los documentos."
+    ]
+  },
+  {
+    "pregunta": "¿Qué ventaja principal tiene una base de datos nativa XML?",
+    "respuesta": "Preserva el formato original del documento.",
+    "opciones": [
+      "Es más rápida que las bases relacionales.",
+      "Soporta grandes volúmenes de datos.",
+      "Preserva el formato original del documento."
+    ]
+  },
+  {
+    "pregunta": "¿Qué lenguaje de consulta se utiliza en bases de datos XML?",
+    "respuesta": "XQuery.",
+    "opciones": [
+      "XQuery.",
+      "SQL.",
+      "OQL."
+    ]
+  },
+  {
+    "pregunta": "¿Qué ventaja ofrece BaseX como gestor de bases de datos XML?",
+    "respuesta": "Soporte multiplataforma.",
+    "opciones": [
+      "Soporte multiplataforma.",
+      "Alta complejidad de uso.",
+      "Baja compatibilidad con Java."
+    ]
+  },
+  {
+    "pregunta": "¿Qué elemento de XQJ permite gestionar conexiones con bases de datos XML?",
+    "respuesta": "XQDataSource.",
+    "opciones": [
+      "XQPreparedExpression.",
+      "XQDataSource.",
+      "XQConnection."
+    ]
+  },
+  {
+    "pregunta": "¿Qué comando permite optimizar el rendimiento de una base de datos en BaseX?",
+    "respuesta": "Optimize.",
+    "opciones": [
+      "Adjust.",
+      "Tune.",
+      "Optimize."
+    ]
+  },
+  {
+    "pregunta": "¿Qué base de datos XML nativa es opensource?",
+    "respuesta": "BaseX.",
+    "opciones": [
+      "BaseX.",
+      "DB2.",
+      "Oracle XML DB."
+    ]
+  },
+  {
+    "pregunta": "¿Qué clase en BaseX se usa para ejecutar comandos directamente sobre la base de",
+    "respuesta": "Command.",
+    "opciones": [
+      "datos?",
+      "Context.",
+      "Command.",
+      "BaseXCommand."
+    ]
+  },
+  {
+    "pregunta": "¿Qué comando en BaseX permite eliminar una base de datos?",
+    "respuesta": "DropDB.",
+    "opciones": [
+      "DropDB.",
+      "RemoveDB.",
+      "DeleteDB."
+    ]
+  },
+  {
+    "pregunta": "¿Qué prueba determina la carga máxima que soporta el sistema?",
+    "respuesta": "Pruebas de volumen.",
+    "opciones": [
+      "Pruebas de volumen.",
+      "Pruebas de estrés.",
+      "Pruebas de recuperación."
+    ]
+  },
+  {
+    "pregunta": "¿Qué ventaja tiene el uso de JavaBeans en programación orientada a componentes?",
+    "respuesta": "Portabilidad entre plataformas.",
+    "opciones": [
+      "Eliminación de la necesidad de pruebas.",
+      "Automatización completa de la codificación.",
+      "Portabilidad entre plataformas."
+    ]
+  },
+  {
+    "pregunta": "¿Qué define una propiedad restringida en un componente?",
+    "respuesta": "Los cambios pueden ser vetados por otros componentes.",
+    "opciones": [
+      "Los cambios pueden ser vetados por otros componentes.",
+      "Solo se puede acceder mediante introspección.",
+      "No puede cambiar su valor después de ser inicializada."
+    ]
+  },
+  {
+    "pregunta": "¿Qué prueba se realiza para validar la integridad de los datos tras un fallo?",
+    "respuesta": "Pruebas de recuperación.",
+    "opciones": [
+      "Pruebas de estrés.",
+      "Pruebas de volumen.",
+      "Pruebas de recuperación."
+    ]
+  },
+  {
+    "pregunta": "¿Qué herramienta permite gestionar cambios de propiedades en un JavaBean?",
+    "respuesta": "PropertyChangeSupport.",
+    "opciones": [
+      "ChangePropertyManager.",
+      "PropertyChangeSupport.",
+      "PropertyEventManager."
+    ]
+  },
+  {
+    "pregunta": "¿Qué interfaz en Java permite vetar cambios en propiedades?",
+    "respuesta": "VetoableChangeListener.",
+    "opciones": [
+      "VetoableChangeSupport.",
+      "VetoableChangeListener.",
+      "PropertyVetoListener."
+    ]
+  },
+  {
+    "pregunta": "¿Qué ventaja ofrece la serialización en Java para componentes reutilizables?",
+    "respuesta": "Permite guardar y restaurar el estado del componente.",
+    "opciones": [
+      "Reduce el uso de memoria durante la ejecución.",
+      "Incrementa la velocidad de ejecución.",
+      "Permite guardar y restaurar el estado del componente."
+    ]
+  },
+  {
+    "pregunta": "¿Qué tipo de prueba asegura que los cambios en una parte del software no afecten",
+    "respuesta": "Pruebas de regresión.",
+    "opciones": [
+      "otras partes?",
+      "Pruebas de regresión.",
+      "Pruebas de validación.",
+      "Pruebas de integración."
+    ]
+  },
+  {
+    "pregunta": "¿Qué herramienta se usa para empaquetar componentes en Java?",
+    "respuesta": "Archivos JAR.",
+    "opciones": [
+      "Maven.",
+      "NetBeans.",
+      "Archivos JAR."
+    ]
+  },
+  {
+    "pregunta": "¿Qué mecanismo asegura la compatibilidad entre versiones de componentes?",
+    "respuesta": "Estándares de interoperabilidad.",
+    "opciones": [
+      "Serialización.",
+      "Estándares de interoperabilidad.",
+      "Empaquetado modular."
+    ]
+  },
+  {
+    "pregunta": "¿Qué tipo de prueba evalúa la resistencia del sistema bajo condiciones extremas de",
+    "respuesta": "Pruebas de estrés.",
+    "opciones": [
+      "sobrecarga?",
+      "Pruebas de volumen.",
+      "Pruebas de estrés.",
+      "Pruebas de recuperación."
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es una ventaja principal de la programación orientada a componentes?",
+    "respuesta": "Permite reutilizar componentes probados.",
+    "opciones": [
+      "Facilita la encapsulación de datos.",
+      "Incrementa la complejidad del desarrollo.",
+      "Permite reutilizar componentes probados."
+    ]
+  },
+  {
+    "pregunta": "¿Qué elemento es fundamental para garantizar la calidad del software?",
+    "respuesta": "Realización de pruebas rigurosas.",
+    "opciones": [
+      "Uso de componentes reutilizables.",
+      "Realización de pruebas rigurosas.",
+      "Empaquetado eficiente."
+    ]
+  },
+  {
+    "pregunta": "¿Qué ventaja tiene PostgreSQL en la administración de bases de datos?",
+    "respuesta": "Permite replicación de datos.",
+    "opciones": [
+      "Es propietario.",
+      "Permite replicación de datos.",
+      "Soporta pocos tipos de datos."
+    ]
+  },
+  {
+    "pregunta": "¿Qué sistema gestor de base de datos soporta herencia entre tablas?",
+    "respuesta": "PostgreSQL.",
+    "opciones": [
+      "MySQL.",
+      "SQL Server.",
+      "PostgreSQL."
+    ]
+  },
+  {
+    "pregunta": "¿Qué herramienta de JPA se utiliza para gestionar el ciclo de vida de las entidades?",
+    "respuesta": "EntityManager.",
+    "opciones": [
+      "TransactionHandler.",
+      "EntityManager.",
+      "Hibernate."
+    ]
+  },
+  {
+    "pregunta": "¿Qué estándar asegura la coherencia del lenguaje SQL entre sistemas?",
+    "respuesta": "ANSI SQL.",
+    "opciones": [
+      "OQL.",
+      "ANSI SQL.",
+      "JDBC."
+    ]
+  },
+  {
+    "pregunta": "¿Qué tipo de datos permite almacenar colecciones ordenadas?",
+    "respuesta": "Array.",
+    "opciones": [
+      "Bag.",
+      "Array.",
+      "Set."
+    ]
+  },
+  {
+    "pregunta": "¿Qué herramienta gráfica facilita la administración de PostgreSQL?",
+    "respuesta": "pgAdmin.",
+    "opciones": [
+      "pgAdmin.",
+      "SQL Server Management Studio.",
+      "MySQL Workbench."
+    ]
+  },
+  {
+    "pregunta": "¿Qué API estándar facilita la persistencia en aplicaciones Java?",
+    "respuesta": "JPA.",
+    "opciones": [
+      "JPA.",
+      "Hibernate.",
+      "JDBC."
+    ]
+  },
+  {
+    "pregunta": "¿Qué método en JPA asegura las propiedades ACID al finalizar una transacción?",
+    "respuesta": "commit.",
+    "opciones": [
+      "commit.",
+      "rollback.",
+      "close."
+    ]
+  },
+  {
+    "pregunta": "¿Qué operación en JPA se utiliza para actualizar una entidad en la base de datos?",
+    "respuesta": "merge.",
+    "opciones": [
+      "remove.",
+      "merge.",
+      "persist."
+    ]
+  },
+  {
+    "pregunta": "¿Qué permite el uso de arrays en bases de datos objeto-relacionales?",
+    "respuesta": "Almacenar colecciones ordenadas.",
+    "opciones": [
+      "Crear vistas complejas.",
+      "Almacenar colecciones ordenadas.",
+      "Reducir espacio de almacenamiento."
+    ]
+  },
+  {
+    "pregunta": "¿Qué función cumple la interfaz XQExpression en XQJ?",
+    "respuesta": "Ejecutar consultas inmediatas.",
+    "opciones": [
+      "Crear conexiones.",
+      "Ejecutar consultas inmediatas.",
+      "Configurar el contexto de consultas."
+    ]
+  },
+  {
+    "pregunta": "¿Qué comando en BaseX cierra una base de datos abierta?",
+    "respuesta": "Close.",
+    "opciones": [
+      "ShutDown.",
+      "Exit.",
+      "Close."
+    ]
+  },
+  {
+    "pregunta": "¿Qué clase en BaseX permite ejecutar comandos directamente en el contexto local?",
+    "respuesta": "Command.",
+    "opciones": [
+      "BaseXCommand.",
+      "Context.",
+      "Command."
+    ]
+  },
+  {
+    "pregunta": "¿Qué permite realizar el uso de índices en bases de datos XML?",
+    "respuesta": "Realizar consultas más rápidas.",
+    "opciones": [
+      "Reducir el tamaño de los documentos.",
+      "Realizar consultas más rápidas.",
+      "Evitar duplicados en documentos."
+    ]
+  },
+  {
+    "pregunta": "¿Qué es una colección en una base de datos XML?",
+    "respuesta": "Un agrupamiento de documentos XML.",
+    "opciones": [
+      "Un conjunto de nodos.",
+      "Una tabla de datos.",
+      "Un agrupamiento de documentos XML."
+    ]
+  },
+  {
+    "pregunta": "¿Qué API estándar de Java permite trabajar con bases de datos XML?",
+    "respuesta": "XQJ.",
+    "opciones": [
+      "JPA.",
+      "XQJ.",
+      "JDBC."
+    ]
+  },
+  {
+    "pregunta": "¿Qué clase en BaseX permite gestionar conexiones con bases de datos?",
+    "respuesta": "Context.",
+    "opciones": [
+      "Context.",
+      "BaseXConnection.",
+      "Session."
+    ]
+  },
+  {
+    "pregunta": "¿Qué propiedad de XQuery permite construir nuevos documentos XML?",
+    "respuesta": "Expresiones FLWOR.",
+    "opciones": [
+      "Expresiones FLWOR.",
+      "XPath.",
+      "Contextos estáticos."
+    ]
+  },
+  {
+    "pregunta": "¿Qué comando de BaseX renombra un documento en una colección?",
+    "respuesta": "Rename.",
+    "opciones": [
+      "Update.",
+      "ChangeName.",
+      "Rename."
+    ]
+  },
+  {
+    "pregunta": "¿Qué propiedad permite la ejecución de comandos parametrizados en XQJ?",
+    "respuesta": "Reutilización de plantillas.",
+    "opciones": [
+      "Reutilización de plantillas.",
+      "Flexibilidad en consultas.",
+      "Soporte para XQuery."
+    ]
+  },
+  {
+    "pregunta": "¿Qué lenguaje utiliza BaseX para realizar consultas en sus bases de datos?",
+    "respuesta": "XQuery.",
+    "opciones": [
+      "OQL.",
+      "XQuery.",
+      "SQL."
+    ]
+  },
+  {
+    "pregunta": "¿Qué método se usa para notificar un cambio en una propiedad ligada?",
+    "respuesta": "firePropertyChange.",
+    "opciones": [
+      "addPropertyListener.",
+      "setPropertyChange.",
+      "firePropertyChange."
+    ]
+  },
+  {
+    "pregunta": "¿Qué es la introspección en el contexto de los componentes?",
+    "respuesta": "Obtener información de un componente sin ejecutarlo.",
+    "opciones": [
+      "Modificar un componente durante su ejecución.",
+      "Obtener información de un componente sin ejecutarlo.",
+      "Serializar un componente para su transferencia."
+    ]
+  },
+  {
+    "pregunta": "¿Qué ventaja tiene la programación orientada a componentes respecto a pruebas?",
+    "respuesta": "Los componentes pueden probarse de forma individual.",
+    "opciones": [
+      "Facilita la depuración en tiempo de ejecución.",
+      "Evita la necesidad de documentación técnica.",
+      "Los componentes pueden probarse de forma individual."
+    ]
+  },
+  {
+    "pregunta": "¿Qué ventaja ofrece el empaquetado de componentes en archivos .jar?",
+    "respuesta": "Permite agrupar dependencias y facilitar la distribución.",
+    "opciones": [
+      "Incrementa la velocidad de ejecución de la aplicación.",
+      "Reduce el tamaño del archivo ejecutable.",
+      "Permite agrupar dependencias y facilitar la distribución."
+    ]
+  },
+  {
+    "pregunta": "¿Qué método se utiliza para notificar un cambio en una propiedad restringida?",
+    "respuesta": "fireVetoableChange.",
+    "opciones": [
+      "notifyRestrictedChange.",
+      "fireVetoableChange.",
+      "setRestrictedProperty."
+    ]
+  },
+  {
+    "pregunta": "¿Qué herramienta es ideal para desarrollar componentes Java?",
+    "respuesta": "Todas son correctas.",
+    "opciones": [
+      "Todas son correctas.",
+      "Eclipse.",
+      "NetBeans."
+    ]
+  },
+  {
+    "pregunta": "¿Qué permite la serialización en Java?",
+    "respuesta": "Convertir un objeto en una secuencia de bytes.",
+    "opciones": [
+      "Aumentar la velocidad de ejecución de un programa.",
+      "Convertir un objeto en una secuencia de bytes.",
+      "Ejecutar un componente de manera asincrónica."
+    ]
+  },
+  {
+    "pregunta": "¿Qué ventaja tiene el uso de eventos en componentes?",
+    "respuesta": "Facilita la comunicación entre componentes.",
+    "opciones": [
+      "Permite reducir el tamaño del código fuente.",
+      "Facilita la comunicación entre componentes.",
+      "Mejora la interoperabilidad entre plataformas."
+    ]
+  },
+  {
+    "pregunta": "¿Qué método es obligatorio implementar para que un objeto Java pueda ser",
+    "respuesta": "Implementar la interfaz Serializable.",
+    "opciones": [
+      "serializado?",
+      "writeObject.",
+      "Implementar la interfaz Serializable.",
+      "toString."
+    ]
+  },
+  {
+    "pregunta": "¿Qué método se utiliza para obtener el valor de una propiedad simple en un",
+    "respuesta": "get<Property>.",
+    "opciones": [
+      "JavaBean?",
+      "retrieve<Property>.",
+      "get<Property>.",
+      "access<Property>."
+    ]
+  },
+  {
+    "pregunta": "¿Qué elemento define la estructura de una BDOO según el estándar ODMG?",
+    "respuesta": "Lenguaje de definición de objetos (ODL).",
+    "opciones": [
+      "Lenguaje de definición de objetos (ODL).",
+      "Clases UML.",
+      "Lenguaje de consultas SQL."
+    ]
+  },
+  {
+    "pregunta": "¿Qué sistema de gestión es multiplataforma y soporta Unicode?",
+    "respuesta": "PostgreSQL.",
+    "opciones": [
+      "MySQL.",
+      "PostgreSQL.",
+      "Oracle."
+    ]
+  },
+  {
+    "pregunta": "¿Qué característica permite a PostgreSQL manejar datos concurrentes sin",
+    "respuesta": "MVCC.",
+    "opciones": [
+      "bloqueos?",
+      "Copias de seguridad en caliente.",
+      "Replicación de datos.",
+      "MVCC."
+    ]
+  },
+  {
+    "pregunta": "¿Qué característica de las BDOO elimina el desfase objeto-relacional?",
+    "respuesta": "Persistencia de objetos sin transformación.",
+    "opciones": [
+      "Almacenamiento como tablas.",
+      "Persistencia de objetos sin transformación.",
+      "Uso de SQL estándar."
+    ]
+  },
+  {
+    "pregunta": "¿Qué permite la herramienta Hibernate en Java?",
+    "respuesta": "Simplificar la persistencia de datos.",
+    "opciones": [
+      "Simplificar la persistencia de datos.",
+      "Crear índices automáticos.",
+      "Crear triggers complejos."
+    ]
+  },
+  {
+    "pregunta": "¿Qué lenguaje se utiliza para interactuar con bases de datos relacionales?",
+    "respuesta": "SQL.",
+    "opciones": [
+      "Java.",
+      "SQL.",
+      "HTML."
+    ]
+  },
+  {
+    "pregunta": "¿Qué ventaja principal tienen las BDOO frente a las BDOR?",
+    "respuesta": "Correspondencia directa con el modelo de objetos.",
+    "opciones": [
+      "Escalabilidad.",
+      "Compatibilidad con SQL estándar.",
+      "Correspondencia directa con el modelo de objetos."
+    ]
+  },
+  {
+    "pregunta": "¿Qué característica define una base de datos objeto-relacional?",
+    "respuesta": "Integra objetos y tablas.",
+    "opciones": [
+      "Solo soporta tipos atómicos.",
+      "Usa exclusivamente tablas.",
+      "Integra objetos y tablas."
+    ]
+  },
+  {
+    "pregunta": "¿Qué método en BaseX permite agregar documentos a una colección?",
+    "respuesta": "Add.",
+    "opciones": [
+      "Attach.",
+      "Insert.",
+      "Add."
+    ]
+  },
+  {
+    "pregunta": "¿Qué función permite almacenar objetos serializados en bases de datos XML?",
+    "respuesta": "Guardar como binarios.",
+    "opciones": [
+      "Guardar atributos.",
+      "Guardar como binarios.",
+      "Representar como nodos."
+    ]
+  },
+  {
+    "pregunta": "¿Qué unidad mínima se almacena en las bases de datos XML nativas?",
+    "respuesta": "Documento.",
+    "opciones": [
+      "Documento.",
+      "Nodo.",
+      "Colección."
+    ]
+  },
+  {
+    "pregunta": "¿Qué tipo de almacenamiento es más recomendado para documentos XML?",
+    "respuesta": "En base de datos XML.",
+    "opciones": [
+      "En base de datos XML.",
+      "En fichero.",
+      "En base de datos relacional."
+    ]
+  },
+  {
+    "pregunta": "¿Qué identifica de forma única un documento en una base de datos XML?",
+    "respuesta": "Identificador único.",
+    "opciones": [
+      "Nombre del nodo raíz.",
+      "Clave primaria.",
+      "Identificador único."
+    ]
+  },
+  {
+    "pregunta": "¿Qué comando en BaseX permite eliminar una base de datos completa?",
+    "respuesta": "DropDB.",
+    "opciones": [
+      "DeleteDB.",
+      "DropDB.",
+      "RemoveDB."
+    ]
+  },
+  {
+    "pregunta": "¿Qué elemento debe implementar un componente Java para ser persistente?",
+    "respuesta": "La interfaz Serializable.",
+    "opciones": [
+      "La interfaz Serializable.",
+      "Una clase BeanInfo.",
+      "Un constructor público."
+    ]
+  },
+  {
+    "pregunta": "¿Qué interfaz en JavaBeans permite manejar eventos generados por propiedades?",
+    "respuesta": "PropertyChangeListener.",
+    "opciones": [
+      "EventListener.",
+      "PropertyChangeListener.",
+      "Serializable."
+    ]
+  },
+  {
+    "pregunta": "¿Qué permite el uso de introspección en entornos de desarrollo?",
+    "respuesta": "Obtener información sobre métodos y propiedades sin ejecutar el código.",
+    "opciones": [
+      "Ejecutar componentes automáticamente.",
+      "Modificar clases en tiempo de compilación.",
+      "Obtener información sobre métodos y propiedades sin ejecutar el código."
+    ]
+  },
+  {
+    "pregunta": "¿Qué interfaz en Java permite que un componente sea persistente?",
+    "respuesta": "Serializable.",
+    "opciones": [
+      "Comparable.",
+      "Serializable.",
+      "Runnable."
+    ]
+  },
+  {
+    "pregunta": "¿Qué característica define una propiedad restringida en JavaBeans?",
+    "respuesta": "Permite vetar cambios mediante VetoableChangeListener.",
+    "opciones": [
+      "Puede tener múltiples valores asociados.",
+      "Permite vetar cambios mediante VetoableChangeListener.",
+      "Notifica cambios a otros componentes automáticamente."
+    ]
+  },
+  {
+    "pregunta": "¿Qué prueba asegura que los cambios no afecten a otras partes del sistema?",
+    "respuesta": "Prueba de regresión.",
+    "opciones": [
+      "Prueba de integración.",
+      "Prueba de regresión.",
+      "Prueba de validación."
+    ]
+  },
+  {
+    "pregunta": "¿Qué componente actúa como fuente de eventos en programación orientada a",
+    "respuesta": "Source.",
+    "opciones": [
+      "componentes?",
+      "Listener.",
+      "EventObject.",
+      "Source."
+    ]
+  },
+  {
+    "pregunta": "¿Qué tipo de propiedad puede tener valores múltiples asociados en JavaBeans?",
+    "respuesta": "Indexada.",
+    "opciones": [
+      "Simple.",
+      "Indexada.",
+      "Ligada."
+    ]
+  },
+  {
+    "pregunta": "¿Qué componente actúa como oyente en el patrón de eventos?",
+    "respuesta": "Listener.",
+    "opciones": [
+      "Listener.",
+      "BeanInfo.",
+      "EventSource."
+    ]
+  },
+  {
+    "pregunta": "¿Qué ventaja aporta el estándar SQL:1999?",
+    "respuesta": "Integración con lenguajes orientados a objetos.",
+    "opciones": [
+      "Menor soporte de tipos de datos.",
+      "Integración con lenguajes orientados a objetos.",
+      "Exclusividad para bases relacionales."
+    ]
+  },
+  {
+    "pregunta": "¿Qué ventaja tiene PostgreSQL frente a MySQL?",
+    "respuesta": "Mayor soporte de transacciones complejas.",
+    "opciones": [
+      "Menor consumo de recursos.",
+      "Simplificación de comandos.",
+      "Mayor soporte de transacciones complejas."
+    ]
+  },
+  {
+    "pregunta": "¿Qué permite la creación de métodos en SQL:1999?",
+    "respuesta": "Operar con objetos complejos.",
+    "opciones": [
+      "Definir índices.",
+      "Crear claves primarias.",
+      "Operar con objetos complejos."
+    ]
+  },
+  {
+    "pregunta": "¿Qué tipo de datos se usa para almacenar fechas en una BD objeto-relacional?",
+    "respuesta": "Date.",
+    "opciones": [
+      "String.",
+      "Date.",
+      "Enum."
+    ]
+  },
+  {
+    "pregunta": "¿Qué tipo de dato permite almacenar texto extenso en SQL99?",
+    "respuesta": "CLOB.",
+    "opciones": [
+      "CLOB.",
+      "ENUM.",
+      "BOOLEAN."
+    ]
+  },
+  {
+    "pregunta": "¿Qué ventaja tienen las bases de datos objeto-relacionales frente a las",
+    "respuesta": "Manejo de datos complejos.",
+    "opciones": [
+      "relacionales?",
+      "Mayor compatibilidad.",
+      "Manejo de datos complejos.",
+      "Menor flexibilidad."
+    ]
+  },
+  {
+    "pregunta": "¿Qué estructura básica organiza los datos en una base de datos XML?",
+    "respuesta": "Árbol.",
+    "opciones": [
+      "Nodo.",
+      "Árbol.",
+      "Colección."
+    ]
+  },
+  {
+    "pregunta": "¿Qué comando de BaseX se utiliza para añadir un documento XML a una base de",
+    "respuesta": "Add.",
+    "opciones": [
+      "datos?",
+      "Add.",
+      "Attach.",
+      "Insert."
+    ]
+  },
+  {
+    "pregunta": "¿Qué tipo de excepciones maneja BaseX en sus aplicaciones?",
+    "respuesta": "BaseXException.",
+    "opciones": [
+      "BaseXException.",
+      "IOException.",
+      "SQLException."
+    ]
+  },
+  {
+    "pregunta": "¿Qué clase en BaseX se usa para realizar consultas XQuery?",
+    "respuesta": "XQuery.",
+    "opciones": [
+      "Query.",
+      "XQuery.",
+      "QueryExecutor."
+    ]
+  },
+  {
+    "pregunta": "¿Qué característica tienen las bases de datos XML-enabled?",
+    "respuesta": "Necesitan un mapeo intermedio.",
+    "opciones": [
+      "Requieren esquemas rígidos.",
+      "Necesitan un mapeo intermedio.",
+      "Almacenan documentos XML de forma nativa."
+    ]
+  },
+  {
+    "pregunta": "¿Qué diferencia a una base de datos XML-enabled de una nativa?",
+    "respuesta": "La XML-enabled necesita mapeo previo.",
+    "opciones": [
+      "La XML-enabled necesita mapeo previo.",
+      "La XML-enabled soporta más formatos.",
+      "La XML-enabled es más eficiente."
+    ]
+  },
+  {
+    "pregunta": "¿Qué elemento de XQJ representa una secuencia de resultados de una consulta?",
+    "respuesta": "XQResultSequence.",
+    "opciones": [
+      "XQResultSet.",
+      "XQResultSequence.",
+      "XQSequence."
+    ]
+  },
+  {
+    "pregunta": "¿Qué lenguaje de marcas utiliza las bases de datos XML?",
+    "respuesta": "XML.",
+    "opciones": [
+      "HTML.",
+      "SGML.",
+      "XML."
+    ]
+  },
+  {
+    "pregunta": "¿Qué ventaja tiene el empaquetado de componentes en un archivo JAR?",
+    "respuesta": "Facilita la distribución y reutilización de componentes.",
+    "opciones": [
+      "Facilita la distribución y reutilización de componentes.",
+      "Reduce el tamaño del archivo ejecutable.",
+      "Incrementa la seguridad del código."
+    ]
+  },
+  {
+    "pregunta": "¿Qué modelo de componentes permite la interoperabilidad entre lenguajes y",
+    "respuesta": "CORBA.",
+    "opciones": [
+      "plataformas?",
+      "ActiveX.",
+      "CORBA.",
+      "JavaBeans."
+    ]
+  },
+  {
+    "pregunta": "¿Qué mecanismo permite inspeccionar y modificar la estructura de una clase en",
+    "respuesta": "Reflexión.",
+    "opciones": [
+      "tiempo de ejecución?",
+      "Introspección.",
+      "Reflexión.",
+      "Serialización."
+    ]
+  },
+  {
+    "pregunta": "¿Qué estándar permite la comunicación entre componentes a través de eventos?",
+    "respuesta": "JavaBeans.",
+    "opciones": [
+      "JavaBeans.",
+      "COM.",
+      "CORBA."
+    ]
+  },
+  {
+    "pregunta": "¿Qué herramienta permite inspeccionar dinámicamente métodos de una clase en",
+    "respuesta": "Reflexión.",
+    "opciones": [
+      "Java?",
+      "PropertyChangeListener.",
+      "Reflexión.",
+      "Introspección."
+    ]
+  },
+  {
+    "pregunta": "¿Qué elemento asegura la consistencia en transacciones en bases de datos?",
+    "respuesta": "Propiedades ACID.",
+    "opciones": [
+      "Persistencia.",
+      "Propiedades ACID.",
+      "Lenguaje SQL estándar."
+    ]
+  },
+  {
+    "pregunta": "¿Qué ventaja aporta ObjectDB frente a bases de datos relacionales?",
+    "respuesta": "Evita el desfase objeto-relacional.",
+    "opciones": [
+      "Completa integración con SQL.",
+      "Mayor velocidad de transacciones.",
+      "Evita el desfase objeto-relacional."
+    ]
+  },
+  {
+    "pregunta": "¿Qué ventaja tiene PostgreSQL al trabajar con bases de datos relacionales?",
+    "respuesta": "Alta concurrencia.",
+    "opciones": [
+      "Baja escalabilidad.",
+      "Alta concurrencia.",
+      "Limitación de datos."
+    ]
+  },
+  {
+    "pregunta": "¿Qué función tiene la interfaz API en una base de datos?",
+    "respuesta": "Facilitar la comunicación entre aplicaciones.",
+    "opciones": [
+      "Crear tablas.",
+      "Reducir tamaño de datos.",
+      "Facilitar la comunicación entre aplicaciones."
+    ]
+  },
+  {
+    "pregunta": "¿Qué operación realiza JPA al almacenar una entidad en la base de datos?",
+    "respuesta": "Persist.",
+    "opciones": [
+      "Remove.",
+      "Persist.",
+      "Merge."
+    ]
+  },
+  {
+    "pregunta": "¿Qué permite crear PostgreSQL además de tablas tradicionales?",
+    "respuesta": "Tipos de datos personalizados.",
+    "opciones": [
+      "Consultas jerárquicas.",
+      "Funciones no relacionales.",
+      "Tipos de datos personalizados."
+    ]
+  },
+  {
+    "pregunta": "¿Qué comando en BaseX optimiza una base de datos?",
+    "respuesta": "Optimize.",
+    "opciones": [
+      "Optimize.",
+      "Tune.",
+      "Clean."
+    ]
+  },
+  {
+    "pregunta": "¿Qué característica diferencia XQJ de JDBC?",
+    "respuesta": "Permite manejar datos XML nativos.",
+    "opciones": [
+      "Permite manejar datos XML nativos.",
+      "No soporta conexiones transaccionales.",
+      "Está diseñado para SQL."
+    ]
+  },
+  {
+    "pregunta": "¿Qué comando de BaseX se usa para listar todas las bases de datos disponibles?",
+    "respuesta": "List.",
+    "opciones": [
+      "List.",
+      "ListDB.",
+      "ShowDB."
+    ]
+  },
+  {
+    "pregunta": "¿Qué método se utiliza en Java para obtener el valor de una propiedad simple?",
+    "respuesta": "get...().",
+    "opciones": [
+      "set...().",
+      "listen...().",
+      "get...()."
+    ]
+  },
+  {
+    "pregunta": "¿Qué ventaja tiene la documentación interna de un componente software?",
+    "respuesta": "Facilita su integración en aplicaciones externas.",
+    "opciones": [
+      "Garantiza que los usuarios finales puedan modificar el componente.",
+      "Permite ejecutar el código más eficientemente.",
+      "Facilita su integración en aplicaciones externas."
+    ]
+  },
+  {
+    "pregunta": "¿Qué herramienta de desarrollo es ideal para empaquetar componentes Java en",
+    "respuesta": "NetBeans.",
+    "opciones": [
+      "archivos JAR?",
+      "NetBeans.",
+      "Maven.",
+      "Eclipse."
+    ]
+  },
+  {
+    "pregunta": "¿Qué paradigma permite la reutilización y mantenimiento del software mediante",
+    "respuesta": "Programación orientada a componentes.",
+    "opciones": [
+      "componentes?",
+      "Programación funcional.",
+      "Programación orientada a componentes.",
+      "Programación orientada a objetos."
+    ]
+  },
+  {
+    "pregunta": "¿Qué método de persistencia de JPA permite eliminar un objeto de la base de",
+    "respuesta": "remove.",
+    "opciones": [
+      "datos?",
+      "merge.",
+      "persist.",
+      "remove."
+    ]
+  },
+  {
+    "pregunta": "¿Qué lenguaje utiliza JPA para realizar consultas en bases de datos?",
+    "respuesta": "JPQL.",
+    "opciones": [
+      "OQL.",
+      "JPQL.",
+      "SQL:92."
+    ]
+  },
+  {
+    "pregunta": "¿Qué protocolo utiliza JDBC para conectar Java con bases de datos?",
+    "respuesta": "JDBC Driver.",
+    "opciones": [
+      "ODBC.",
+      "JDBC Driver.",
+      "HTTP."
+    ]
+  },
+  {
+    "pregunta": "¿Qué tipo de dato se usa para almacenar imágenes en una base de datos?",
+    "respuesta": "BLOB.",
+    "opciones": [
+      "CLOB.",
+      "BLOB.",
+      "ARRAY."
+    ]
+  },
+  {
+    "pregunta": "¿Qué desventaja tienen las bases de datos nativas XML?",
+    "respuesta": "Pueden ser menos eficientes con grandes volúmenes de datos.",
+    "opciones": [
+      "Pueden ser menos eficientes con grandes volúmenes de datos.",
+      "No soportan lenguajes de consulta.",
+      "Requieren mapeo intermedio."
+    ]
+  },
+  {
+    "pregunta": "¿Qué tipo de consultas se pueden realizar con XQPreparedExpression en XQJ?",
+    "respuesta": "Consultas paramétricas.",
+    "opciones": [
+      "Consultas inmediatas.",
+      "Consultas no estructuradas.",
+      "Consultas paramétricas."
+    ]
+  },
+  {
+    "pregunta": "¿Qué término se refiere a un atributo que afecta el comportamiento de un",
+    "respuesta": "Propiedad.",
+    "opciones": [
+      "componente?",
+      "Evento.",
+      "Persistencia.",
+      "Propiedad."
+    ]
+  },
+  {
+    "pregunta": "¿Qué método se utiliza para agregar un oyente de eventos a un componente en",
+    "respuesta": "add<Evento>Listener.",
+    "opciones": [
+      "JavaBeans?",
+      "add<Evento>Listener.",
+      "registerEventListener.",
+      "attachListener."
+    ]
+  },
+  {
+    "pregunta": "¿Qué método de la clase PropertyChangeSupport permite notificar cambios en una",
+    "respuesta": "firePropertyChange.",
+    "opciones": [
+      "propiedad ligada?",
+      "notifyPropertyChange.",
+      "addPropertyChangeListener.",
+      "firePropertyChange."
+    ]
+  },
+  {
+    "pregunta": "¿Qué propiedad permite que un componente se pueda ensamblar dinámicamente?",
+    "respuesta": "Dinamismo.",
+    "opciones": [
+      "Introspección.",
+      "Persistencia.",
+      "Dinamismo."
+    ]
+  },
+  {
+    "pregunta": "¿Qué mecanismo utiliza Java para convertir un objeto en una secuencia de bytes?",
+    "respuesta": "Serialización.",
+    "opciones": [
+      "Introspección.",
+      "Persistencia dinámica.",
+      "Serialización."
+    ]
+  },
+  {
+    "pregunta": "¿Qué prueba evalúa si el software cumple los requisitos del cliente en su entorno",
+    "respuesta": "Prueba de aceptación.",
+    "opciones": [
+      "real?",
+      "Prueba de validación.",
+      "Prueba de aceptación.",
+      "Prueba de unidad."
+    ]
+  },
+  {
+    "pregunta": "¿Qué comando se utiliza para crear una base de datos en PostgreSQL?",
+    "respuesta": "CREATE DATABASE.",
+    "opciones": [
+      "CREATE DATABASE.",
+      "CREATE TABLE.",
+      "INSERT INTO."
+    ]
+  },
+  {
+    "pregunta": "¿Qué tipo de consulta busca una entidad específica en JPA?",
+    "respuesta": "Find.",
+    "opciones": [
+      "Remove.",
+      "Persist.",
+      "Find."
+    ]
+  },
+  {
+    "pregunta": "¿Qué herramienta gráfica se utiliza para administrar BaseX?",
+    "respuesta": "BaseX Interface.",
+    "opciones": [
+      "pgAdmin.",
+      "BaseX Interface.",
+      "Admin Studio."
+    ]
+  },
+  {
+    "pregunta": "¿Qué ventaja tiene el almacenamiento en una base de datos XML frente a ficheros?",
+    "respuesta": "Mayor flexibilidad en consultas.",
+    "opciones": [
+      "Menor coste de almacenamiento.",
+      "Mayor flexibilidad en consultas.",
+      "Menor complejidad de uso."
+    ]
+  },
+  {
+    "pregunta": "¿Qué permite una base de datos nativa XML?",
+    "respuesta": "Almacenar documentos como nodos.",
+    "opciones": [
+      "Solo manejar datos estructurados.",
+      "Almacenar documentos como nodos.",
+      "Usar únicamente SQL."
+    ]
+  },
+  {
+    "pregunta": "¿Qué lenguaje es un subconjunto de XQuery?",
+    "respuesta": "XPath.",
+    "opciones": [
+      "JPQL.",
+      "SQL.",
+      "XPath."
+    ]
+  },
+  {
+    "pregunta": "¿Qué propiedad permite que un componente informe a otros sobre cambios en su",
+    "respuesta": "Propiedad ligada.",
+    "opciones": [
+      "estado?",
+      "Propiedad simple.",
+      "Propiedad ligada.",
+      "Propiedad indexada."
+    ]
+  },
+  {
+    "pregunta": "¿Qué componente actúa como fuente de eventos en Java?",
+    "respuesta": "Source.",
+    "opciones": [
+      "BeanInfo.",
+      "Listener.",
+      "Source."
+    ]
+  },
+  {
+    "pregunta": "¿Qué permite la reflexión en Java?",
+    "respuesta": "Obtener información sobre clases y objetos en tiempo de ejecución.",
+    "opciones": [
+      "Generar eventos automáticamente.",
+      "Modificar código fuente de clases.",
+      "Obtener información sobre clases y objetos en tiempo de ejecución."
+    ]
+  },
+  {
+    "pregunta": "¿Qué característica tienen las colecciones en eXist.db?",
+    "respuesta": "Son jerárquicas.",
+    "opciones": [
+      "No soportan sub-colecciones.",
+      "Son jerárquicas.",
+      "No permiten documentos binarios."
+    ]
+  },
+  {
+    "pregunta": "¿Qué función cumple el comando CreateDB en BaseX?",
+    "respuesta": "Crear una nueva base de datos.",
+    "opciones": [
+      "Crear una nueva base de datos.",
+      "Optimizar una base de datos existente.",
+      "Conectar a una base de datos remota."
+    ]
+  },
+  {
+    "pregunta": "¿Qué comando permite ejecutar consultas XQuery en BaseX?",
+    "respuesta": "XQuery.",
+    "opciones": [
+      "XQuery.",
+      "RunQuery.",
+      "ExecuteQuery."
+    ]
+  }
+]

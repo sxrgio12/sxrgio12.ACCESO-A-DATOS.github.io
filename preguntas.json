@@ -1,19 +1,17 @@
 [
   {
-    "pregunta": "¿Qué lenguaje es utilizado para realizar consultas en bases de datos orientadas a",
+    "pregunta": "¿Qué lenguaje es utilizado para realizar consultas en bases de datos orientadas a objetos?",
     "respuesta": "OQL.",
     "opciones": [
-      "objetos?",
       "OQL.",
       "SQL.",
       "JPQL."
     ]
   },
   {
-    "pregunta": "¿Qué ventaja clave tienen las BDOO en aplicaciones con manejo intensivo de",
+    "pregunta": "¿Qué ventaja clave tienen las BDOO en aplicaciones con manejo intensivo de objetos?",
     "respuesta": "Reducción de mapeos complejos.",
     "opciones": [
-      "objetos?",
       "Escalabilidad.",
       "Reducción de mapeos complejos.",
       "Compatibilidad universal."
@@ -337,10 +335,9 @@
     ]
   },
   {
-    "pregunta": "¿Qué tipo de prueba evalúa la resistencia del sistema bajo condiciones extremas de",
+    "pregunta": "¿Qué tipo de prueba evalúa la resistencia del sistema bajo condiciones extremas de sobrecarga?",
     "respuesta": "Pruebas de estrés.",
     "opciones": [
-      "sobrecarga?",
       "Pruebas de volumen.",
       "Pruebas de estrés.",
       "Pruebas de recuperación."
@@ -664,10 +661,9 @@
     ]
   },
   {
-    "pregunta": "¿Qué característica permite a PostgreSQL manejar datos concurrentes sin",
+    "pregunta": "¿Qué característica permite a PostgreSQL manejar datos concurrentes sin bloqueos?",
     "respuesta": "MVCC.",
     "opciones": [
-      "bloqueos?",
       "Copias de seguridad en caliente.",
       "Replicación de datos.",
       "MVCC."
@@ -827,10 +823,9 @@
     ]
   },
   {
-    "pregunta": "¿Qué componente actúa como fuente de eventos en programación orientada a",
+    "pregunta": "¿Qué componente actúa como fuente de eventos en programación orientada a componentes?",
     "respuesta": "Source.",
     "opciones": [
-      "componentes?",
       "Listener.",
       "EventObject.",
       "Source."
@@ -900,10 +895,9 @@
     ]
   },
   {
-    "pregunta": "¿Qué ventaja tienen las bases de datos objeto-relacionales frente a las",
+    "pregunta": "¿Qué ventaja tienen las bases de datos objeto-relacionales frente a las relacionales?",
     "respuesta": "Manejo de datos complejos.",
     "opciones": [
-      "relacionales?",
       "Mayor compatibilidad.",
       "Manejo de datos complejos.",
       "Menor flexibilidad."
@@ -992,20 +986,18 @@
     ]
   },
   {
-    "pregunta": "¿Qué modelo de componentes permite la interoperabilidad entre lenguajes y",
+    "pregunta": "¿Qué modelo de componentes permite la interoperabilidad entre lenguajes y plataformas?",
     "respuesta": "CORBA.",
     "opciones": [
-      "plataformas?",
       "ActiveX.",
       "CORBA.",
       "JavaBeans."
     ]
   },
   {
-    "pregunta": "¿Qué mecanismo permite inspeccionar y modificar la estructura de una clase en",
+    "pregunta": "¿Qué mecanismo permite inspeccionar y modificar la estructura de una clase en tiempo de ejecución?",
     "respuesta": "Reflexión.",
     "opciones": [
-      "tiempo de ejecución?",
       "Introspección.",
       "Reflexión.",
       "Serialización."
@@ -1021,10 +1013,9 @@
     ]
   },
   {
-    "pregunta": "¿Qué herramienta permite inspeccionar dinámicamente métodos de una clase en",
+    "pregunta": "¿Qué herramienta permite inspeccionar dinámicamente métodos de una clase en Java?",
     "respuesta": "Reflexión.",
     "opciones": [
-      "Java?",
       "PropertyChangeListener.",
       "Reflexión.",
       "Introspección."
@@ -1130,30 +1121,28 @@
     ]
   },
   {
-    "pregunta": "¿Qué herramienta de desarrollo es ideal para empaquetar componentes Java en",
+    "pregunta": "¿Qué herramienta de desarrollo es ideal para empaquetar componentes Java en archivos JAR?",
     "respuesta": "NetBeans.",
     "opciones": [
-      "archivos JAR?",
       "NetBeans.",
       "Maven.",
       "Eclipse."
     ]
   },
   {
-    "pregunta": "¿Qué paradigma permite la reutilización y mantenimiento del software mediante",
+    "pregunta": "¿Qué paradigma permite la reutilización y mantenimiento del software mediante componentes?",
     "respuesta": "Programación orientada a componentes.",
     "opciones": [
-      "componentes?",
+
       "Programación funcional.",
       "Programación orientada a componentes.",
       "Programación orientada a objetos."
     ]
   },
   {
-    "pregunta": "¿Qué método de persistencia de JPA permite eliminar un objeto de la base de",
+    "pregunta": "¿Qué método de persistencia de JPA permite eliminar un objeto de la base de datos?",
     "respuesta": "remove.",
     "opciones": [
-      "datos?",
       "merge.",
       "persist.",
       "remove."
@@ -1205,30 +1194,27 @@
     ]
   },
   {
-    "pregunta": "¿Qué término se refiere a un atributo que afecta el comportamiento de un",
+    "pregunta": "¿Qué término se refiere a un atributo que afecta el comportamiento de un componente?",
     "respuesta": "Propiedad.",
     "opciones": [
-      "componente?",
       "Evento.",
       "Persistencia.",
       "Propiedad."
     ]
   },
   {
-    "pregunta": "¿Qué método se utiliza para agregar un oyente de eventos a un componente en",
+    "pregunta": "¿Qué método se utiliza para agregar un oyente de eventos a un componente en JavaBeans?",
     "respuesta": "add<Evento>Listener.",
     "opciones": [
-      "JavaBeans?",
       "add<Evento>Listener.",
       "registerEventListener.",
       "attachListener."
     ]
   },
   {
-    "pregunta": "¿Qué método de la clase PropertyChangeSupport permite notificar cambios en una",
+    "pregunta": "¿Qué método de la clase PropertyChangeSupport permite notificar cambios en una propiedad ligada?",
     "respuesta": "firePropertyChange.",
     "opciones": [
-      "propiedad ligada?",
       "notifyPropertyChange.",
       "addPropertyChangeListener.",
       "firePropertyChange."
@@ -1253,10 +1239,10 @@
     ]
   },
   {
-    "pregunta": "¿Qué prueba evalúa si el software cumple los requisitos del cliente en su entorno",
+    "pregunta": "¿Qué prueba evalúa si el software cumple los requisitos del cliente en su entorno real?",
     "respuesta": "Prueba de aceptación.",
     "opciones": [
-      "real?",
+
       "Prueba de validación.",
       "Prueba de aceptación.",
       "Prueba de unidad."
@@ -1317,10 +1303,9 @@
     ]
   },
   {
-    "pregunta": "¿Qué propiedad permite que un componente informe a otros sobre cambios en su",
+    "pregunta": "¿Qué propiedad permite que un componente informe a otros sobre cambios en su estado?",
     "respuesta": "Propiedad ligada.",
     "opciones": [
-      "estado?",
       "Propiedad simple.",
       "Propiedad ligada.",
       "Propiedad indexada."
